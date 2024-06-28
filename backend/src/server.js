@@ -6,11 +6,14 @@ const app = require('./app');
 
 
 mongoose.connect(
-    process.env.MONGO_URI,
-    {}).then(result => {
-        console.log("db conntected")
+    "mongodb://mongodb:27017/medicalapp",
+    { useNewUrlParser: true, useUnifiedTopology: true }
+    ).then(result => {
+        console.log("db connected");
         app.listen(port, () => {
-            console.log(`Example app listening on port ${port}`)
-        })
-    }
-    ).catch(err => console.log(err))
+            console.log(`App listening on port ${port}`);
+        });
+    }).catch(err => {
+        console.error("Database connection failed", err);
+    });
+

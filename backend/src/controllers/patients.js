@@ -1,6 +1,6 @@
 const PatientModel = require('../model/patients')
 const createHttpError = require('http-errors')
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 exports.getUserData = async (req, res, next) => {

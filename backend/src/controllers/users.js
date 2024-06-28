@@ -1,6 +1,6 @@
 const UserModel = require('../model/users')
 const createHttpError = require('http-errors')
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 exports.checkPassword = async (req, res, next) => {
