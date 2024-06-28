@@ -1,0 +1,19 @@
+.sen {
+  flex: 1;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.property-1day-indonesian {
+  width: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 10px;
+  color: #7e818c;
+  font-family: var(--font-roboto);
+}

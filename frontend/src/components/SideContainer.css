@@ -1,0 +1,49 @@
+.frame-child39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(rgba(0, 230, 118, 0.15), rgba(0, 230, 118, 0.15)),
+    #fff;
+  width: 75rem;
+  height: 75rem;
+}
+.deskripsi-protime7 {
+  align-self: stretch;
+  letter-spacing: -0.01em;
+  font-size:50px;
+  margin-left: 100px;
+  justify-content: center;
+  display: flex;
+}
+
+.frame-icon8,
+.frame53 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame53 {
+  top: 10.63rem;
+  left: 4.38rem;
+  width: 60rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-icon8 {
+  top: 10.94rem;
+  left: 20.44rem;
+  width: 34.5rem;
+  height: 55.5rem;
+}
+.frame52 {
+  position: relative;
+  width: 75rem;
+  height: 75rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}

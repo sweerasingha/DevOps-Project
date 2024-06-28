@@ -1,0 +1,149 @@
+.usernawm {
+  /* border: 0; */
+  background-color: transparent;
+  position: relative;
+}
+.forgot-your-password1 {
+  position: relative;
+  line-height: 120%;
+  font-size: 1rem;
+  display: inline-block;
+  font-weight: 500;
+  width: 24rem;
+}
+.usernamepassword1 {
+  border-style: solid;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.log-in-button1 {
+  cursor: pointer;
+  position: relative;
+  width: 9.25rem;
+  height: 4.31rem;
+  border-radius: 30px; /* Adjust the value to control corner roundness */
+  border: 2px solid #ccc; /* Change the color and width as needed */
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Customize shadow as needed */
+  background-color: #00E676;
+  padding: var(--padding-6xs) var(--padding-0); /* Set the default background color to #00E676 */
+  transition: background-color 0.3s; 
+}
+.log-in-button1:hover {
+  background-color: rgba(255, 255, 0, 0.5); /* Change the background color to yellow on hover */
+}
+.frame38,
+.frame39 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame39 {
+  width: 17.13rem;
+  height: 4.69rem;
+  
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-0);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.frame38 {
+  width: 24.75rem;
+  height: 21.31rem;
+  font-size: 2rem;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+}
+.or-inner {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.or-inner,
+.or3 {
+  position: relative;
+}
+.or2 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.form,
+.frame40 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame40 {
+  align-self: stretch;
+  flex: 1;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+}
+.form {
+  width: 24.75rem;
+  height: 25rem;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  text-align: left;
+  /* font-size: var(--font-size-lg); */
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 960px) {
+  .or-inner {
+    flex: unset;
+    align-self: stretch;
+  }
+  .or2 {
+    flex-direction: column;
+    gap: var(--gap-xs);
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media screen and (max-width: 420px) {
+  .or-inner {
+    flex: unset;
+    align-self: stretch;
+  }
+  .or2 {
+    flex-direction: column;
+    gap: var(--gap-xs);
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+.inputs {
+  background-color: rgb(205, 206, 205);
+  width: 700px;
+  height: 65px;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 10px;
+}
+
+.inputs::placeholder {
+  color: black;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}

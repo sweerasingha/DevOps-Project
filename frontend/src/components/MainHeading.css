@@ -1,0 +1,1485 @@
+.frame-child33,
+.frame32 {
+  align-self: stretch;
+  border-radius: var(--br-29xl) var(--br-29xl) var(--br-281xl) var(--br-29xl);
+}
+.frame-child33 {
+  position: relative;
+  background: linear-gradient(135deg, #92ffc0, #002661);
+  height: 45rem;
+}
+.frame32 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.your-health-our {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 130%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 35.81rem;
+  height: 28rem;
+  flex-shrink: 0;
+  color: black;
+}
+.vector-icon3 {
+  position: relative;
+  width: 9.25rem;
+  height: 4.31rem;
+  border-radius: 30px; /* Adjust the value to control corner roundness */
+  border: 2px solid #ccc; /* Change the color and width as needed */
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Customize shadow as needed */
+  background-color: #00E676; /* Set the default background color to #00E676 */
+  transition: background-color 0.3s; /* Add a smooth transition effect */
+}
+
+.vector-icon3:hover {
+  background-color: rgba(255, 255, 0, 0.5); /* Change the background color to yellow on hover */
+}
+.frame35,
+.frame36 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame35 {
+  width: 35.81rem;
+  height: 40.88rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame36 {
+  width: 9.25rem;
+  height: 36.57rem;
+}
+.frame34 {
+  flex: 1;
+  height: 36.5rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 63.32%;
+  width: 54.44%;
+  top: 25.34%;
+  right: 17.2%;
+  bottom: 11.34%;
+  left: 28.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 27.06%;
+  width: 35.84%;
+  top: 3.82%;
+  right: 1.56%;
+  bottom: 69.12%;
+  left: 62.6%;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 16.66%;
+  width: 23.95%;
+  top: 10.07%;
+  right: 64.82%;
+  bottom: 73.28%;
+  left: 11.23%;
+}
+.vector-icon7,
+.vector-icon8 {
+  height: 49.03%;
+  width: 28.04%;
+  top: 45.87%;
+  right: 69.38%;
+  bottom: 5.1%;
+  left: 2.58%;
+}
+.vector-icon8 {
+  height: 20.96%;
+  width: 19.04%;
+  top: 55.5%;
+  right: -4.28%;
+  bottom: 23.54%;
+  left: 85.24%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon13,
+.vector-icon9 {
+  position: absolute;
+  height: 18.23%;
+  width: 21.6%;
+  top: 0;
+  right: 35.7%;
+  bottom: 81.77%;
+  left: 42.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon13 {
+  height: 10.74%;
+  width: 16.17%;
+  top: 55.67%;
+  right: -9.43%;
+  bottom: 33.6%;
+  left: 93.26%;
+}
+.vector-icon11,
+.vector-icon12,
+.vector-icon13 {
+  height: 21.09%;
+  width: 8.05%;
+  top: 54.92%;
+  right: 71.9%;
+  bottom: 23.99%;
+  left: 20.05%;
+}
+.vector-icon12,
+.vector-icon13 {
+  height: 5.94%;
+  width: 17.44%;
+  top: 17.37%;
+  right: 48.92%;
+  bottom: 76.7%;
+  left: 33.64%;
+}
+.vector-icon13 {
+  height: 18.21%;
+  width: 7.77%;
+  top: 47.63%;
+  right: 76.16%;
+  bottom: 34.16%;
+  left: 16.07%;
+}
+.vector-icon14,
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  position: absolute;
+  height: 13.46%;
+  width: 11.38%;
+  top: 52.84%;
+  right: 80.8%;
+  bottom: 33.7%;
+  left: 7.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  height: 15.81%;
+  width: 8.25%;
+  top: 50.11%;
+  right: -0.76%;
+  bottom: 34.08%;
+  left: 92.51%;
+}
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  height: 9.25%;
+  width: 8.96%;
+  top: 57.11%;
+  right: 91.04%;
+  bottom: 33.64%;
+  left: 0;
+}
+.vector-icon17,
+.vector-icon18 {
+  height: 10.5%;
+  width: 7.39%;
+  top: 45.92%;
+  right: 84.56%;
+  bottom: 43.58%;
+  left: 8.05%;
+}
+.vector-icon18 {
+  height: 6.82%;
+  width: 8.38%;
+  top: 49.5%;
+  right: -9.62%;
+  bottom: 43.68%;
+  left: 101.24%;
+}
+.vector-icon19,
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  position: absolute;
+  height: 4.49%;
+  width: 8.13%;
+  top: 33.54%;
+  right: 82.4%;
+  bottom: 61.97%;
+  left: 9.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  height: 23.59%;
+  width: 1.82%;
+  top: 24.02%;
+  right: 67.86%;
+  bottom: 52.38%;
+  left: 30.31%;
+}
+.vector-icon21,
+.vector-icon22,
+.vector-icon23 {
+  height: 9.6%;
+  width: 5.59%;
+  top: 45.64%;
+  right: 81.85%;
+  bottom: 44.76%;
+  left: 12.56%;
+}
+.vector-icon22,
+.vector-icon23 {
+  height: 17.7%;
+  width: 17.33%;
+  top: 49.23%;
+  right: -9.45%;
+  bottom: 33.07%;
+  left: 92.13%;
+}
+.vector-icon23 {
+  height: 6.21%;
+  width: 6.38%;
+  top: 48.91%;
+  right: -6.21%;
+  bottom: 44.88%;
+  left: 99.83%;
+}
+.vector-icon24,
+.vector-icon25,
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  position: absolute;
+  height: 4.52%;
+  width: 4.85%;
+  top: 33.42%;
+  right: 78.61%;
+  bottom: 62.07%;
+  left: 16.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon25,
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  height: 2.77%;
+  width: 6.64%;
+  top: 23.37%;
+  right: -6.75%;
+  bottom: 73.86%;
+  left: 100.11%;
+}
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  height: 2.78%;
+  width: 6.62%;
+  top: 26.38%;
+  right: -6.74%;
+  bottom: 70.84%;
+  left: 100.12%;
+}
+.vector-icon27,
+.vector-icon28 {
+  height: 3.33%;
+  width: 4.62%;
+  top: 34.09%;
+  right: 92.79%;
+  bottom: 62.58%;
+  left: 2.58%;
+}
+.vector-icon28 {
+  height: 3.02%;
+  width: 4.63%;
+  top: 2.39%;
+  right: 60.74%;
+  bottom: 94.59%;
+  left: 34.63%;
+}
+.vector-icon29,
+.vector-icon30,
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  position: absolute;
+  height: 35.38%;
+  width: 48.86%;
+  top: 62.09%;
+  right: 20.91%;
+  bottom: 2.53%;
+  left: 30.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon30,
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  height: 40.01%;
+  width: 13.25%;
+  top: 53.57%;
+  right: 8.15%;
+  bottom: 6.41%;
+  left: 78.61%;
+}
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  height: 9.03%;
+  width: 15.44%;
+  top: 76.65%;
+  right: 3.08%;
+  bottom: 14.32%;
+  left: 81.47%;
+}
+.vector-icon32,
+.vector-icon33 {
+  height: 9.7%;
+  width: 12.72%;
+  top: 83.58%;
+  right: 8.53%;
+  bottom: 6.71%;
+  left: 78.75%;
+}
+.vector-icon33 {
+  height: 14.42%;
+  width: 11.83%;
+  top: 65.52%;
+  right: 0;
+  bottom: 20.06%;
+  left: 88.17%;
+}
+.vector-icon34,
+.vector-icon35,
+.vector-icon36,
+.vector-icon37,
+.vector-icon38 {
+  position: absolute;
+  height: 6.9%;
+  width: 14.71%;
+  top: 80.87%;
+  right: 80%;
+  bottom: 12.23%;
+  left: 5.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon35,
+.vector-icon36,
+.vector-icon37,
+.vector-icon38 {
+  height: 6.32%;
+  width: 10.7%;
+  top: 75.61%;
+  right: 86.59%;
+  bottom: 18.07%;
+  left: 2.71%;
+}
+.vector-icon36,
+.vector-icon37,
+.vector-icon38 {
+  height: 5.31%;
+  width: 6.36%;
+  top: 70.49%;
+  right: 91.05%;
+  bottom: 24.21%;
+  left: 2.58%;
+}
+.vector-icon37,
+.vector-icon38 {
+  height: 11.2%;
+  width: 16.47%;
+  top: 66.73%;
+  right: -4.33%;
+  bottom: 22.07%;
+  left: 87.86%;
+}
+.vector-icon38 {
+  height: 6.78%;
+  width: 7.74%;
+  top: 85.31%;
+  right: 81.03%;
+  bottom: 7.92%;
+  left: 11.22%;
+}
+.vector-icon39,
+.vector-icon40,
+.vector-icon41,
+.vector-icon42,
+.vector-icon43 {
+  position: absolute;
+  height: 4.03%;
+  width: 7.02%;
+  top: 87.81%;
+  right: 73.98%;
+  bottom: 8.16%;
+  left: 18.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon40,
+.vector-icon41,
+.vector-icon42,
+.vector-icon43 {
+  height: 3.78%;
+  width: 9.17%;
+  top: 91.09%;
+  right: 69.81%;
+  bottom: 5.13%;
+  left: 21.02%;
+}
+.vector-icon41,
+.vector-icon42,
+.vector-icon43 {
+  height: 21.53%;
+  width: 19.42%;
+  top: 17.42%;
+  right: 21.28%;
+  bottom: 61.05%;
+  left: 59.3%;
+}
+.vector-icon42,
+.vector-icon43 {
+  height: 26.61%;
+  width: 5.72%;
+  top: 61.68%;
+  right: 62.63%;
+  bottom: 11.7%;
+  left: 31.65%;
+}
+.vector-icon43 {
+  height: 17.06%;
+  width: 18.9%;
+  top: 22.75%;
+  right: 49.45%;
+  bottom: 60.19%;
+}
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48 {
+  position: absolute;
+  height: 25.36%;
+  width: 9.51%;
+  top: 26.24%;
+  right: 44.36%;
+  bottom: 48.4%;
+  left: 46.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48 {
+  height: 12.13%;
+  width: 17.8%;
+  top: 22.78%;
+  right: 22.59%;
+  bottom: 65.09%;
+  left: 59.61%;
+}
+.vector-icon46,
+.vector-icon47,
+.vector-icon48 {
+  height: 25.66%;
+  width: 5.15%;
+  top: 62.79%;
+  right: 21.57%;
+  bottom: 11.55%;
+  left: 73.28%;
+}
+.vector-icon47,
+.vector-icon48 {
+  height: 23.84%;
+  width: 8.94%;
+  top: 27.73%;
+  right: 35.45%;
+  bottom: 48.42%;
+  left: 55.61%;
+}
+.vector-icon48 {
+  height: 14.18%;
+  width: 4.19%;
+  top: 74.22%;
+  right: 42.08%;
+  bottom: 11.6%;
+  left: 53.73%;
+}
+.vector-icon49,
+.vector-icon50,
+.vector-icon51,
+.vector-icon52,
+.vector-icon53 {
+  position: absolute;
+  height: 7.82%;
+  width: 12.35%;
+  top: 51.18%;
+  right: 45.62%;
+  bottom: 41%;
+  left: 42.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon50,
+.vector-icon51,
+.vector-icon52,
+.vector-icon53 {
+  height: 5.55%;
+  width: 11.61%;
+  top: 49.16%;
+  right: 26.63%;
+  bottom: 45.28%;
+  left: 61.76%;
+}
+.vector-icon51,
+.vector-icon52,
+.vector-icon53 {
+  height: 14.99%;
+  width: 2.55%;
+  top: 60.51%;
+  right: 42.89%;
+  bottom: 24.5%;
+  left: 54.56%;
+}
+.vector-icon52,
+.vector-icon53 {
+  height: 24.37%;
+  width: 10.41%;
+  top: 23.96%;
+  right: 30%;
+  bottom: 51.67%;
+  left: 59.59%;
+}
+.vector-icon53 {
+  height: 23.22%;
+  width: 7.3%;
+  top: 28.23%;
+  right: 37.24%;
+  bottom: 48.55%;
+  left: 55.46%;
+}
+.vector-icon54,
+.vector-icon55,
+.vector-icon56,
+.vector-icon57,
+.vector-icon58 {
+  position: absolute;
+  height: 6.01%;
+  width: 14.02%;
+  top: 61.16%;
+  right: 26.26%;
+  bottom: 32.83%;
+  left: 59.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon55,
+.vector-icon56,
+.vector-icon57,
+.vector-icon58 {
+  height: 10.93%;
+  width: 1.94%;
+  top: 63.24%;
+  right: 19.6%;
+  bottom: 25.82%;
+  left: 78.46%;
+}
+.vector-icon56,
+.vector-icon57,
+.vector-icon58 {
+  height: 4.49%;
+  width: 12.74%;
+  top: 60.02%;
+  right: 50.45%;
+  bottom: 35.49%;
+  left: 36.81%;
+}
+.vector-icon57,
+.vector-icon58 {
+  height: 17.65%;
+  width: 8.9%;
+  top: 23.82%;
+  right: 49.52%;
+  bottom: 58.52%;
+  left: 41.58%;
+}
+.vector-icon58 {
+  height: 10.16%;
+  width: 2.17%;
+  top: 43.26%;
+  right: 60.03%;
+  bottom: 46.58%;
+  left: 37.81%;
+}
+.vector-icon59,
+.vector-icon60,
+.vector-icon61,
+.vector-icon62,
+.vector-icon63 {
+  position: absolute;
+  height: 3.15%;
+  width: 3.66%;
+  top: 39.65%;
+  right: 56.03%;
+  bottom: 57.2%;
+  left: 40.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon60,
+.vector-icon61,
+.vector-icon62,
+.vector-icon63 {
+  height: 2.29%;
+  width: 2.58%;
+  top: 73.2%;
+  right: 38.16%;
+  bottom: 24.51%;
+  left: 59.26%;
+}
+.vector-icon61,
+.vector-icon62,
+.vector-icon63 {
+  height: 2.21%;
+  top: 63.7%;
+  right: 38.84%;
+  bottom: 34.1%;
+  left: 58.58%;
+}
+.vector-icon62,
+.vector-icon63 {
+  height: 6.32%;
+  width: 2.02%;
+  top: 43.29%;
+  right: 28.43%;
+  bottom: 50.39%;
+  left: 69.55%;
+}
+.vector-icon63 {
+  height: 3.73%;
+  width: 1.85%;
+  top: 62.76%;
+  right: 17.93%;
+  bottom: 33.5%;
+  left: 80.22%;
+}
+.vector-icon64,
+.vector-icon65,
+.vector-icon66,
+.vector-icon67,
+.vector-icon68 {
+  position: absolute;
+  height: 4.4%;
+  width: 1.09%;
+  top: 56.39%;
+  right: 16.47%;
+  bottom: 39.21%;
+  left: 82.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon65,
+.vector-icon66,
+.vector-icon67,
+.vector-icon68 {
+  height: 18.85%;
+  width: 0.27%;
+  top: 20.6%;
+  right: 21.24%;
+  bottom: 60.55%;
+  left: 78.49%;
+}
+.vector-icon66,
+.vector-icon67,
+.vector-icon68 {
+  height: 1.54%;
+  width: 1.45%;
+  top: 25.11%;
+  right: 37.03%;
+  bottom: 73.35%;
+  left: 61.52%;
+}
+.vector-icon67,
+.vector-icon68 {
+  height: 1.8%;
+  width: 0.15%;
+  top: 37.91%;
+  right: 57.49%;
+  bottom: 60.29%;
+  left: 42.36%;
+}
+.vector-icon68 {
+  height: 4.78%;
+  width: 4.54%;
+  top: 53.7%;
+  right: 11.24%;
+  bottom: 41.52%;
+  left: 84.22%;
+}
+.vector-icon69,
+.vector-icon70,
+.vector-icon71,
+.vector-icon72,
+.vector-icon73 {
+  position: absolute;
+  height: 4.77%;
+  width: 3.43%;
+  top: 53.56%;
+  right: 14.24%;
+  bottom: 41.67%;
+  left: 82.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon70,
+.vector-icon71,
+.vector-icon72,
+.vector-icon73 {
+  height: 35.35%;
+  width: 18.01%;
+  top: 3.05%;
+  right: 35.32%;
+  bottom: 61.6%;
+  left: 46.67%;
+}
+.vector-icon71,
+.vector-icon72,
+.vector-icon73 {
+  height: 3.64%;
+  width: 5.45%;
+  top: 10.98%;
+  right: 9.06%;
+  bottom: 85.38%;
+  left: 85.49%;
+}
+.vector-icon72,
+.vector-icon73 {
+  height: 4.7%;
+  width: 2.43%;
+  top: 9.33%;
+  right: 33.96%;
+  bottom: 85.96%;
+  left: 63.61%;
+}
+.vector-icon73 {
+  height: 1.38%;
+  width: 0.13%;
+  top: 8%;
+  right: 35.71%;
+  bottom: 90.61%;
+  left: 64.16%;
+}
+.vector-icon74,
+.vector-icon75,
+.vector-icon76,
+.vector-icon77,
+.vector-icon78,
+.vector-icon79,
+.vector-icon80 {
+  position: absolute;
+  height: 2.55%;
+  width: 3.1%;
+  top: 16.21%;
+  right: 81.6%;
+  bottom: 81.25%;
+  left: 15.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon75,
+.vector-icon76,
+.vector-icon77,
+.vector-icon78,
+.vector-icon79,
+.vector-icon80 {
+  height: 2.54%;
+  right: 75.37%;
+  left: 21.53%;
+}
+.vector-icon76,
+.vector-icon77,
+.vector-icon78,
+.vector-icon79,
+.vector-icon80 {
+  width: 2.98%;
+  right: 69.14%;
+  left: 27.88%;
+}
+.vector-icon77,
+.vector-icon78,
+.vector-icon79,
+.vector-icon80 {
+  height: 13.48%;
+  width: 14.32%;
+  top: 62.68%;
+  right: 76.47%;
+  bottom: 23.84%;
+  left: 9.21%;
+}
+.vector-icon78,
+.vector-icon79,
+.vector-icon80 {
+  height: 19.68%;
+  width: 5.82%;
+  top: 65.09%;
+  right: 69.7%;
+  bottom: 15.23%;
+  left: 24.48%;
+}
+.vector-icon79,
+.vector-icon80 {
+  height: 10.63%;
+  width: 12.91%;
+  top: 73.6%;
+  right: 72.47%;
+  bottom: 15.77%;
+  left: 14.61%;
+}
+.vector-icon80 {
+  height: 10.5%;
+  width: 6.66%;
+  top: 71.26%;
+  right: 85.67%;
+  bottom: 18.24%;
+  left: 7.67%;
+}
+.vector-icon81,
+.vector-icon82,
+.vector-icon83,
+.vector-icon84,
+.vector-icon85 {
+  position: absolute;
+  height: 9.98%;
+  width: 9.31%;
+  top: 82.61%;
+  right: 69.7%;
+  bottom: 7.41%;
+  left: 20.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon82,
+.vector-icon83,
+.vector-icon84,
+.vector-icon85 {
+  height: 8.45%;
+  width: 6.57%;
+  top: 79.02%;
+  right: 79.16%;
+  bottom: 12.52%;
+  left: 14.27%;
+}
+.vector-icon83,
+.vector-icon84,
+.vector-icon85 {
+  height: 11.49%;
+  width: 1.66%;
+  top: 76.55%;
+  right: 69.7%;
+  bottom: 11.97%;
+  left: 28.64%;
+}
+.vector-icon84,
+.vector-icon85 {
+  height: 3.62%;
+  width: 4.23%;
+  top: 87.11%;
+  right: 74.65%;
+  bottom: 9.28%;
+  left: 21.12%;
+}
+.vector-icon85 {
+  height: 0.72%;
+  width: 12.56%;
+  top: 66.47%;
+  right: -3.23%;
+  bottom: 32.81%;
+  left: 90.67%;
+}
+.vector-icon86,
+.vector-icon87,
+.vector-icon88,
+.vector-icon89,
+.vector-icon90 {
+  position: absolute;
+  height: 4.6%;
+  width: 2.51%;
+  top: 9.42%;
+  right: 52.23%;
+  bottom: 85.98%;
+  left: 45.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon87,
+.vector-icon88,
+.vector-icon89,
+.vector-icon90 {
+  height: 2.75%;
+  width: 0.81%;
+  top: 9.85%;
+  right: 35.85%;
+  bottom: 87.4%;
+  left: 63.34%;
+}
+.vector-icon88,
+.vector-icon89,
+.vector-icon90 {
+  height: 0.82%;
+  width: 0.27%;
+  top: 60.34%;
+  right: 91.34%;
+  bottom: 38.84%;
+  left: 8.39%;
+}
+.vector-icon89,
+.vector-icon90 {
+  height: 0.94%;
+  width: 9.85%;
+  top: 65.77%;
+  right: -3.48%;
+  bottom: 33.28%;
+  left: 93.63%;
+}
+.vector-icon90 {
+  height: 2.09%;
+  width: 3.38%;
+  top: 34.61%;
+  right: 93.5%;
+  bottom: 63.31%;
+  left: 3.13%;
+}
+.vector-icon91,
+.vector-icon92,
+.vector-icon93,
+.vector-icon94,
+.vector-icon95 {
+  position: absolute;
+  height: 1.97%;
+  width: 3.48%;
+  top: 2.9%;
+  right: 61.31%;
+  bottom: 95.13%;
+  left: 35.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon92,
+.vector-icon93,
+.vector-icon94,
+.vector-icon95 {
+  height: 2.54%;
+  width: 2.97%;
+  top: 91.47%;
+  right: 44%;
+  bottom: 5.99%;
+  left: 53.03%;
+}
+.vector-icon93,
+.vector-icon94,
+.vector-icon95 {
+  height: 18.27%;
+  width: 4.99%;
+  top: 66.67%;
+  right: 14.06%;
+  bottom: 15.06%;
+  left: 80.94%;
+}
+.vector-icon94,
+.vector-icon95 {
+  height: 8.67%;
+  width: 5.79%;
+  top: 57.95%;
+  right: 12.9%;
+  bottom: 33.38%;
+  left: 81.31%;
+}
+.vector-icon95 {
+  height: 11.58%;
+  width: 2.2%;
+  top: 78.56%;
+  right: 19.09%;
+  bottom: 9.86%;
+  left: 78.7%;
+}
+.vector-icon100,
+.vector-icon96,
+.vector-icon97,
+.vector-icon98,
+.vector-icon99 {
+  position: absolute;
+  height: 8.33%;
+  width: 3.7%;
+  top: 66.25%;
+  right: 17.25%;
+  bottom: 25.42%;
+  left: 79.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon100,
+.vector-icon97,
+.vector-icon98,
+.vector-icon99 {
+  height: 2.33%;
+  width: 1.35%;
+  top: 74.34%;
+  right: 12.09%;
+  bottom: 23.33%;
+  left: 86.56%;
+}
+.vector-icon100,
+.vector-icon98,
+.vector-icon99 {
+  height: 2.19%;
+  width: 3.42%;
+  top: 66%;
+  right: -8.65%;
+  bottom: 31.81%;
+  left: 105.22%;
+}
+.vector-icon100,
+.vector-icon99 {
+  height: 9.78%;
+  width: 14.33%;
+  top: 67.67%;
+  right: -2.81%;
+  bottom: 22.55%;
+  left: 88.48%;
+}
+.vector-icon100 {
+  height: 0.23%;
+  width: 2.22%;
+  top: 77.56%;
+  right: 3.14%;
+  bottom: 22.21%;
+  left: 94.64%;
+}
+.vector-icon101,
+.vector-icon102,
+.vector-icon103,
+.vector-icon104,
+.vector-icon105 {
+  position: absolute;
+  height: 3.6%;
+  width: 4.24%;
+  top: 85.77%;
+  right: 81.43%;
+  bottom: 10.63%;
+  left: 14.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon102,
+.vector-icon103,
+.vector-icon104,
+.vector-icon105 {
+  height: 25.23%;
+  width: 8.61%;
+  top: 25.78%;
+  right: 44.39%;
+  bottom: 49%;
+  left: 47%;
+}
+.vector-icon103,
+.vector-icon104,
+.vector-icon105 {
+  height: 1.95%;
+  width: 3.69%;
+  top: 23.63%;
+  right: 23.9%;
+  bottom: 74.42%;
+  left: 72.41%;
+}
+.vector-icon104,
+.vector-icon105 {
+  height: 1.79%;
+  width: 1.43%;
+  top: 23.62%;
+  right: 28.39%;
+  bottom: 74.59%;
+  left: 70.17%;
+}
+.vector-icon105 {
+  height: 1.75%;
+  width: 0.52%;
+  top: 23.57%;
+  right: 30.7%;
+  bottom: 74.68%;
+  left: 68.77%;
+}
+.vector-icon106,
+.vector-icon107,
+.vector-icon108,
+.vector-icon109,
+.vector-icon110 {
+  position: absolute;
+  height: 1.31%;
+  width: 0.6%;
+  top: 23.99%;
+  right: 31.36%;
+  bottom: 74.7%;
+  left: 68.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon107,
+.vector-icon108,
+.vector-icon109,
+.vector-icon110 {
+  height: 0.89%;
+  width: 0.55%;
+  top: 24.43%;
+  right: 32.07%;
+  bottom: 74.68%;
+  left: 67.38%;
+}
+.vector-icon108,
+.vector-icon109,
+.vector-icon110 {
+  height: 25.43%;
+  width: 15.5%;
+  top: 25.54%;
+  right: 37.16%;
+  bottom: 49.03%;
+  left: 47.34%;
+}
+.vector-icon109,
+.vector-icon110 {
+  height: 6.69%;
+  width: 1.52%;
+  top: 28.81%;
+  right: 35.31%;
+  bottom: 64.5%;
+  left: 63.17%;
+}
+.vector-icon110 {
+  height: 2.43%;
+  width: 2.06%;
+  top: 39.66%;
+  right: 56.82%;
+  bottom: 57.91%;
+  left: 41.12%;
+}
+.vector-icon111,
+.vector-icon112,
+.vector-icon113,
+.vector-icon114,
+.vector-icon115 {
+  position: absolute;
+  height: 3.59%;
+  width: 8.16%;
+  top: 20.49%;
+  right: 40.73%;
+  bottom: 75.92%;
+  left: 51.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon112,
+.vector-icon113,
+.vector-icon114,
+.vector-icon115 {
+  height: 2.27%;
+  width: 1.99%;
+  top: 11.41%;
+  right: 39.52%;
+  bottom: 86.32%;
+  left: 58.48%;
+}
+.vector-icon113,
+.vector-icon114,
+.vector-icon115 {
+  height: 2.28%;
+  width: 2%;
+  top: 11.15%;
+  right: 47.1%;
+  bottom: 86.57%;
+  left: 50.89%;
+}
+.vector-icon114,
+.vector-icon115 {
+  height: 1.16%;
+  width: 5.18%;
+  top: 9.28%;
+  right: 46.02%;
+  bottom: 89.56%;
+  left: 48.8%;
+}
+.vector-icon115 {
+  height: 1.27%;
+  width: 5.3%;
+  top: 9.22%;
+  right: 37.47%;
+  bottom: 89.51%;
+  left: 57.23%;
+}
+.vector-icon116,
+.vector-icon117,
+.vector-icon118,
+.vector-icon119,
+.vector-icon120 {
+  position: absolute;
+  height: 0.91%;
+  width: 3.76%;
+  top: 18.09%;
+  right: 42.73%;
+  bottom: 81%;
+  left: 53.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon117,
+.vector-icon118,
+.vector-icon119,
+.vector-icon120 {
+  height: 0.92%;
+  width: 0.82%;
+  top: 31.12%;
+  right: 48.57%;
+  bottom: 67.97%;
+  left: 50.6%;
+}
+.vector-icon118,
+.vector-icon119,
+.vector-icon120 {
+  height: 1.15%;
+  width: 0.32%;
+  top: 37.12%;
+  right: 44.22%;
+  bottom: 61.73%;
+  left: 55.46%;
+}
+.vector-icon119,
+.vector-icon120 {
+  height: 0.72%;
+  width: 0.52%;
+  top: 34.8%;
+  right: 45.88%;
+  bottom: 64.48%;
+  left: 53.6%;
+}
+.vector-icon120 {
+  height: 0.83%;
+  width: 0.51%;
+  top: 34.79%;
+  right: 43.2%;
+  bottom: 64.38%;
+  left: 56.29%;
+}
+.vector-icon121,
+.vector-icon122,
+.vector-icon123,
+.vector-icon124,
+.vector-icon125 {
+  position: absolute;
+  height: 0.68%;
+  width: 0.3%;
+  top: 35.52%;
+  right: 45.59%;
+  bottom: 63.8%;
+  left: 54.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon122,
+.vector-icon123,
+.vector-icon124,
+.vector-icon125 {
+  height: 1.99%;
+  width: 2.35%;
+  top: 91.76%;
+  right: 44.33%;
+  bottom: 6.25%;
+  left: 53.32%;
+}
+.vector-icon123,
+.vector-icon124,
+.vector-icon125 {
+  height: 0.83%;
+  width: 1.06%;
+  top: 24.07%;
+  right: 24.39%;
+  bottom: 75.1%;
+  left: 74.55%;
+}
+.vector-icon124,
+.vector-icon125 {
+  height: 0.54%;
+  width: 0.6%;
+  top: 23.98%;
+  right: 28.81%;
+  bottom: 75.48%;
+  left: 70.59%;
+}
+.vector-icon125 {
+  height: 8.21%;
+  width: 9.74%;
+  top: 34.6%;
+  right: 1.78%;
+  bottom: 57.19%;
+  left: 88.48%;
+}
+.emoji-icon,
+.emoji-icon1,
+.pocket-icon,
+.pocket-icon1,
+.vector-icon126 {
+  position: absolute;
+  height: 14.71%;
+  width: 17.24%;
+  top: 31.71%;
+  right: -1.76%;
+  bottom: 53.58%;
+  left: 84.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.emoji-icon,
+.emoji-icon1,
+.pocket-icon,
+.pocket-icon1 {
+  height: 0.8%;
+  width: 6.72%;
+  top: 72.72%;
+  right: 28.98%;
+  bottom: 26.48%;
+  left: 64.3%;
+}
+.emoji-icon,
+.emoji-icon1,
+.pocket-icon1 {
+  top: 72.85%;
+  right: 51.92%;
+  bottom: 26.35%;
+  left: 41.36%;
+}
+.emoji-icon,
+.emoji-icon1 {
+  height: 5.67%;
+  width: 4.02%;
+  top: 82.71%;
+  right: 33.08%;
+  bottom: 11.62%;
+  left: 62.9%;
+}
+.emoji-icon1 {
+  right: 28.12%;
+  left: 67.86%;
+}
+.vector-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  
+}
+.frame37 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame33,
+.main-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame33 {
+  width: 83.21rem;
+  height: 46.93rem;
+  gap: var(--gap-31xl);
+  margin-left: -80.25rem;
+}
+.main-heading {
+  width: 90rem;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make the component take up the full viewport height */
+  }
+@media screen and (max-width: 420px) {
+  .frame34 {
+    flex-direction: column;
+    gap: var(--gap-3xs);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}

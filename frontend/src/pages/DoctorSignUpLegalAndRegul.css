@@ -1,0 +1,160 @@
+.polygon-icon {
+  position: absolute;
+  top: 2rem;
+  left: 56.94rem;
+  width: 0.75rem;
+  height: 0.5rem;
+}
+.legal-and-regulatory2 {
+  position: absolute;
+  top: 9.75rem;
+  left: 11.56rem;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+.group-button {
+  position: absolute;
+  top: 52.13rem;
+  left: 16.56rem;
+  cursor: pointer;
+}
+.frame-child16 {
+  position: absolute;
+  top: 21.88rem;
+  left: 38.19rem;
+}
+.frame-child17,
+.frame-child18 {
+  position: absolute;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+}
+.frame-child17 {
+  top: 21.25rem;
+  left: 14.31rem;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  width: 20rem;
+  height: 3.75rem;
+}
+.frame-child18 {
+  height: 3.05%;
+  width: 3.22%;
+  top: 50%;
+  right: 76.91%;
+  bottom: 46.95%;
+  left: 19.87%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslategray-100);
+}
+.typcntick {
+  position: absolute;
+  top: 30.88rem;
+  left: 11.75rem;
+}
+.terms-and-conditions1 {
+  position: absolute;
+  top: 44.56rem;
+  left: 14.31rem;
+  font-size: var(--font-size-5xl);
+  line-height: 120%;
+  font-weight: 300;
+  color: var(--color-black);
+  text-align: justify;
+  cursor: pointer;
+}
+.polygon-parent {
+  position: absolute;
+  top: 0;
+  left: 34.81rem;
+  border-radius: var(--br-21xl) 0 0 var(--br-21xl);
+  background-color: var(--color-white);
+  width: 58.19rem;
+  height: 61.38rem;
+  overflow: hidden;
+}
+.doctor-sign-up-legal-and-regul-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(rgba(0, 230, 118, 0.15), rgba(0, 230, 118, 0.15)),
+    #fff;
+  width: 37.94rem;
+  height: 61.38rem;
+  display: none;
+}
+.deskripsi-protime {
+  position: absolute;
+  top: 10.63rem;
+  left: 4.38rem;
+  font-size: var(--font-size-7xl);
+  letter-spacing: -0.01em;
+  display: none;
+  width: 29.94rem;
+  height: 7.63rem;
+}
+.abstraction-icon1 {
+  position: absolute;
+  height: 74.99%;
+  width: 90.91%;
+  top: 25.27%;
+  right: 9.09%;
+  bottom: -0.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hourglass-with-glasmorphism-ef1 {
+  position: absolute;
+  top: 8.6rem;
+  left: 2.29rem;
+  width: 9.21rem;
+  height: 15.08rem;
+  object-fit: cover;
+}
+.icon,
+.pict-web1 {
+  position: absolute;
+  display: none;
+}
+.pict-web1 {
+  height: 65.3%;
+  width: 29.17%;
+  top: 30.92%;
+  right: 55.09%;
+  bottom: 3.78%;
+  left: 15.74%;
+}
+.icon {
+  top: 20.5rem;
+  left: 12.5rem;
+  width: 32.5rem;
+  height: 36.94rem;
+  overflow: hidden;
+}
+.i-hereby-confirm {
+  position: absolute;
+  top: 30.69rem;
+  left: 49.13rem;
+  font-size: var(--font-size-5xl);
+  line-height: 120%;
+  display: inline-block;
+  text-align: justify;
+  width: 36.63rem;
+  height: 12.13rem;
+}
+.doctor-sign-up-legal-and-regul {
+  position: relative;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-white);
+  box-shadow: 18px 17px 35px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}

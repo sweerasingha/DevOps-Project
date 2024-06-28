@@ -1,0 +1,119 @@
+.our-app-offers,
+.why-we-are {
+  position: relative;
+  display: inline-block;
+  width: 16.25rem;
+}
+.why-we-are {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.our-app-offers {
+  font-size: var(--font-size-lg);
+  line-height: 140%;
+}
+.quote {
+  width: 16.25rem;
+  height: 23.69rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-29xl);
+}
+.img01-icon {
+  position: relative;
+  width: 13.91rem;
+  height: 9.96rem;
+}
+.expert-medical-team {
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+  width: 11.81rem;
+}
+.featuring01 {
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  box-shadow: 0 10px 50px rgba(0, 50, 86, 0.25);
+  width: 18.75rem;
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-15xl) 2.28rem var(--padding-15xl) 2.56rem;
+  box-sizing: border-box;
+  gap: var(--gap-46xl);
+}
+.img02-icon {
+  position: absolute;
+  height: 44.66%;
+  width: 49.35%;
+  top: 18.68%;
+  right: 25.12%;
+  bottom: 36.66%;
+  left: 25.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.secure-data-handling {
+  position: absolute;
+  width: 63%;
+  top: 76%;
+  left: 20.67%;
+  line-height: 130%;
+  display: inline-block;
+}
+.featuring02 {
+  position: relative;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  box-shadow: 0 10px 50px rgba(0, 50, 86, 0.25);
+  width: 18.75rem;
+  height: 25rem;
+}
+.img03-icon {
+  position: relative;
+  width: 15.88rem;
+  height: 15.69rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.featuring,
+.featuring03 {
+  display: flex;
+  align-items: center;
+}
+.featuring03 {
+  border-radius: var(--br-29xl);
+  background-color: var(--color-white);
+  box-shadow: 0 10px 50px rgba(0, 50, 86, 0.25);
+  width: 18.75rem;
+  height: 25rem;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-2xl) var(--padding-0)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.featuring {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10rem var(--padding-0) 10rem var(--padding-0);
+  gap: var(--gap-6xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}

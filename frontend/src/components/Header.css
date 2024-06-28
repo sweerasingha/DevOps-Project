@@ -1,0 +1,83 @@
+.sperenzalogo-icon {
+  position: relative;
+  width: 8.13rem;
+  height: 8.13rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navigationbar-child {
+  position: relative;
+  border-top: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 3.13rem;
+  height: 0.13rem;
+}
+.home5 {
+  position: relative;
+  font-weight: 500;
+}
+.doctor4,
+.home5 {
+  align-self: stretch;
+  flex: 1;
+}
+.contact-us3,
+.doctor4,
+.patient4 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.patient4 {
+  flex: 1;
+}
+.contact-us3 {
+  align-self: stretch;
+  display: inline-block;
+  width: 4.38rem;
+  flex-shrink: 0;
+}
+.menu4 {
+  margin: 0;
+  width: 30rem;
+  height: 1.63rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+  margin-left: -30rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-jost);
+}
+.frame31,
+.navigationbar {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+}
+.navigationbar {
+  margin: 0;
+  width: 30rem;
+  height: 1.84rem;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) 0;
+  box-sizing: border-box;
+}
+.frame31 {
+  width: 39.5rem;
+  height: 8.13rem;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+@media screen and (max-width: 420px) {
+  .navigationbar {
+    align-items: center;
+    justify-content: center;
+  }
+}

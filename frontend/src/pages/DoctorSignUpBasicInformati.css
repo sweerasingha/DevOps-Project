@@ -1,0 +1,85 @@
+.frame-child31 {
+  position: absolute;
+  top: 2rem;
+  left: 56.94rem;
+  width: 0.75rem;
+  height: 0.5rem;
+}
+.basic-information2 {
+  position: absolute;
+  top: 9.75rem;
+  left: 11.56rem;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+.frame-child32 {
+  position: absolute;
+  top: 52.13rem;
+  left: 16.56rem;
+  cursor: pointer;
+}
+.arrow-icon {
+  position: absolute;
+  top: 24.25rem;
+  left: 21.97rem;
+  width: 1.38rem;
+  height: 1.53rem;
+}
+.group-child,
+.polygon-parent4 {
+  position: absolute;
+  top: 0;
+  height: 61.38rem;
+}
+.polygon-parent4 {
+  left: 34.81rem;
+  border-radius: var(--br-21xl) 0 0 var(--br-21xl);
+  background-color: var(--color-white);
+  width: 58.19rem;
+  overflow: hidden;
+}
+.group-child {
+  left: 0;
+  background: linear-gradient(rgba(0, 230, 118, 0.15), rgba(0, 230, 118, 0.15)),
+    #fff;
+  width: 37.94rem;
+}
+.deskripsi-protime6 {
+  position: absolute;
+  top: 10.63rem;
+  left: 4.38rem;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 29.94rem;
+  height: 7.63rem;
+}
+.icon6 {
+  position: absolute;
+  top: 20.5rem;
+  left: 12.5rem;
+  width: 32.5rem;
+  height: 36.94rem;
+  overflow: hidden;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45rem;
+  height: 61.38rem;
+  display: none;
+  font-size: var(--font-size-7xl);
+}
+.doctor-sign-up-basic-informati {
+  position: relative;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-white);
+  box-shadow: 18px 17px 35px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}

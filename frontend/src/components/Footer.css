@@ -1,0 +1,158 @@
+.footer-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 90rem;
+  height: 23.44rem;
+}
+.sperenza-logo-icon5 {
+  position: absolute;
+  top: 1.75rem;
+  left: 6.32rem;
+  width: 8.2rem;
+  height: 8.13rem;
+  overflow: hidden;
+}
+.empowering-progress-through3,
+.quick-links4 {
+  position: absolute;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+}
+.empowering-progress-through3 {
+  top: 9.13rem;
+  left: 6.32rem;
+  width: 19.94rem;
+}
+.quick-links4 {
+  top: 0;
+  left: 0.82rem;
+  width: 8.71rem;
+}
+.home8 {
+  margin-bottom: false;
+}
+.home-doctor-patient-about-cont4 {
+  margin: 0;
+  padding-left: var(--padding-5xl);
+}
+.home-doctor-patient-container4 {
+  position: absolute;
+  top: 3.19rem;
+  left: 0;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 8.71rem;
+}
+.col8,
+.contact6 {
+  position: absolute;
+}
+.col8 {
+  top: 3.06rem;
+  left: 58.64rem;
+  width: 9.53rem;
+  height: 12.5rem;
+}
+.contact6 {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 8.71rem;
+}
+.p8 {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.sachiprojectsgmailcom-monday4 {
+  position: absolute;
+  top: 3.19rem;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 13.63rem;
+}
+.col9 {
+  position: absolute;
+  top: 3.06rem;
+  left: 40.65rem;
+  width: 13.63rem;
+  height: 14.06rem;
+}
+.sperenza-all-rights3,
+.sperenza3 {
+  position: absolute;
+  top: 17.38rem;
+  left: 6.32rem;
+  font-size: var(--font-size-base);
+  line-height: 140%;
+  display: inline-block;
+  width: 19.94rem;
+}
+.sperenza3 {
+  top: 3.69rem;
+  left: 15.53rem;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-koulen);
+  background: linear-gradient(180deg, #464a4e, #003256);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 10.67rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px gold;
+}
+.social-icon4 {
+  position: absolute;
+  height: 10.4%;
+  width: 10.17%;
+  top: 69.6%;
+  right: 5.89%;
+  bottom: 20%;
+  left: 83.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icbaseline-access-time-icon2,
+.icbaseline-call-icon2,
+.icbaseline-email-icon2,
+.icbaseline-whatsapp-icon2 {
+  position: absolute;
+  top: 12.25rem;
+  left: 38.25rem;
+  width: 1.51rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.icbaseline-call-icon2,
+.icbaseline-email-icon2,
+.icbaseline-whatsapp-icon2 {
+  top: 10.25rem;
+}
+.icbaseline-call-icon2,
+.icbaseline-whatsapp-icon2 {
+  top: 8.25rem;
+}
+.icbaseline-call-icon2 {
+  top: 6.25rem;
+  left: 38.06rem;
+}
+.footer4 {
+  position: absolute;
+  top: 163.19rem;
+  left: 0;
+  width: 90rem;
+  height: 23.44rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}

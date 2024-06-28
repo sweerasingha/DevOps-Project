@@ -1,0 +1,213 @@
+.globe-icon2 {
+  position: relative;
+  width: 1.63rem;
+  height: 1.63rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.english2 {
+  position: relative;
+  font-weight: 500;
+}
+.header2,
+.lang2 {
+  display: flex;
+  flex-direction: row;
+}
+.lang2 {
+  width: 5.69rem;
+  height: 1.63rem;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.header2 {
+  position: absolute;
+  top: -5rem;
+  left: 0;
+  width: 90rem;
+  height: 0.06rem;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+  font-family: var(--font-jost);
+}
+.doctor-login {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 24rem;
+}
+.heading {
+  width: 46.19rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.doctorimage-icon {
+  position: relative;
+  width: 32.5rem;
+  height: 36.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.facebook-icon1 {
+  position: relative;
+  width: 3rem;
+  height: 3rem;
+}
+.social-icons {
+  width: 12.38rem;
+  height: 3rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.frame22 {
+  width: 13rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.span1 {
+  color: var(--color-white);
+}
+.sign-up {
+  color: var(--color-steelblue-100);
+}
+.dont-have-an-container {
+  position: relative;
+  cursor: pointer;
+}
+.frame23,
+.signupmethods {
+  width: 20.5rem;
+  flex-direction: column;
+}
+.frame23 {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.signupmethods {
+  height: 6.63rem;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.frame21,
+.logdetails,
+.signupmethods {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.logdetails {
+  width: 24.75rem;
+  height: 32.63rem;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.frame21 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-123xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-steelblue-200);
+}
+.frame19,
+.frame20,
+.log-in-normal {
+  width: 90rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.log-in-normal {
+  background-color: var(--color-mediumspringgreen);
+  height: 57.13rem;
+  align-items: center;
+  padding: var(--padding-23xl) var(--padding-154xl);
+  box-sizing: border-box;
+  gap: var(--gap-27xl);
+  margin-top: -0.31rem;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}
+.frame19,
+.frame20 {
+  overflow: hidden;
+}
+.frame20 {
+  height: 64.88rem;
+  flex-shrink: 0;
+  align-items: flex-start;
+}
+.frame19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  align-items: center;
+  padding: var(--padding-0) var(--padding-0) 0;
+  box-sizing: border-box;
+}
+.doctor-log-in {
+  position: relative;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-white);
+  box-shadow: 18px 17px 35px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 88.31rem;
+  overflow: hidden;
+}
+@media screen and (max-width: 1200px) {
+  .header2 {
+    flex-direction: row;
+    gap: var(--gap-389xl);
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 960px) {
+  .header2 {
+    flex-direction: row;
+    gap: var(--gap-389xl);
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .frame21 {
+    flex-direction: column;
+    gap: var(--gap-123xl);
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 420px) {
+  .header2 {
+    flex-direction: column;
+    gap: var(--gap-xl);
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+}

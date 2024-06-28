@@ -1,0 +1,131 @@
+.here-we-go {
+    margin-top: 5rem;
+    position: undefined;
+    font-size: var(--font-size-29xl);
+    line-height: 120%;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    width: 24rem;
+    height: 3.63rem;
+    margin-right: 11.09rem;
+  }
+  .doctor5 {
+    position: relative;
+    line-height: 140%;
+    font-weight: 500;
+    display: inline-block;
+    width: 9.31rem;
+    flex-shrink: 0;
+  }
+  .switchbar {
+    width: 25.13rem;
+    height: 1.56rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-13xl);
+  }
+  .doctorimage-icon1 {
+    position: relative;
+    width: 32.5rem;
+    height: 36.94rem;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .facebook-icon3 {
+    position: relative;
+    width: 3rem;
+    height: 3rem;
+  }
+  .social-icons2 {
+    width: 12.38rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-8xl);
+    position: undefined;
+    margin-right: 0.63rem;
+  }
+  .span3 {
+    color: var(--color-white);
+  }
+  .sign-up2 {
+    color: var(--color-steelblue-100);
+  }
+  .dont-have-an-container2 {
+    position: relative;
+    cursor: pointer;
+  }
+  .frame42 {
+    width: 20.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .logdetails1,
+  .signupmethods1 {
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .signupmethods1 {
+    width: 20.5rem;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    gap: var(--gap-4xl);
+    font-size: var(--font-size-5xl);
+    color: var(--color-steelblue-200);
+  }
+  .logdetails1 {
+    width: 24.75rem;
+    height: 32.63rem;
+    gap: var(--gap-sm);
+  }
+  .frame41,
+  .log-in-normal2,
+  .logdetails1 {
+    display: flex;
+    align-items: center;
+  }
+  .frame41 {
+    align-self: stretch;
+    flex: 1;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0;
+    text-align: left;
+    color: var(--color-darkslategray-300);
+  }
+  .log-in-normal2 {
+    background-color: var(--color-mediumspringgreen);
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-23xl) var(--padding-154xl);
+    box-sizing: border-box;
+    gap: var(--gap-27xl);
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-darkslategray-100);
+    font-family: var(--font-jost);
+  }
+  @media screen and (max-width: 960px) {
+    .frame41 {
+      flex-direction: column;
+      gap: var(--gap-123xl);
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  

@@ -1,0 +1,96 @@
+.about9,
+.home9 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home9 {
+  left: 0;
+}
+.about9 {
+  left: 18.69rem;
+}
+.doctor9 {
+  left: 6rem;
+  cursor: pointer;
+}
+.contact-us4,
+.doctor9,
+.patient9 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.patient9 {
+  left: 12.38rem;
+  cursor: pointer;
+}
+.contact-us4 {
+  left: 24.69rem;
+}
+.menu5 {
+  position: absolute;
+  top: 3.31rem;
+  left: 9.5rem;
+  width: 30rem;
+  height: 1.63rem;
+}
+.english4,
+.lang-item {
+  position: absolute;
+  top: 0;
+}
+.lang-item {
+  left: 0;
+  width: 1.63rem;
+  height: 1.63rem;
+}
+.english4 {
+  left: 2.06rem;
+  font-weight: 500;
+}
+.lang5,
+.lang6 {
+  position: absolute;
+  width: 5.69rem;
+  height: 1.63rem;
+}
+.lang6 {
+  top: 0;
+  left: 0;
+}
+.lang5 {
+  top: 3.31rem;
+  left: 65rem;
+  color: var(--color-darkgray);
+}
+.nav-inner {
+  position: absolute;
+  top: 5.09rem;
+  left: 35.12rem;
+  border-top: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 3.13rem;
+  height: 0.13rem;
+}
+.nav2,
+.sperenza-logo-icon6 {
+  position: absolute;
+  height: 8.13rem;
+}
+.sperenza-logo-icon6 {
+  top: 0;
+  left: 0;
+  width: 8.13rem;
+  overflow: hidden;
+}
+.nav2 {
+  top: 0.44rem;
+  left: 6.25rem;
+  width: 70.69rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-jost);
+}

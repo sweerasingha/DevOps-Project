@@ -1,0 +1,120 @@
+.frame-child37,
+.vector-icon127 {
+  position: absolute;
+  border-radius: var(--br-20xl);
+}
+.frame-child37 {
+  top: 10.27rem;
+  left: 0;
+  width: 24.29rem;
+  height: 0.06rem;
+}
+.vector-icon127 {
+  height: 60.86%;
+  width: 96.13%;
+  top: 0;
+  right: 0;
+  bottom: 39.14%;
+  left: 3.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fever1 {
+  position: absolute;
+  top: 2.66rem;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 2.31rem;
+  height: 1.22rem;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 0.05rem;
+  left: 0;
+  width: 2.47rem;
+  height: 3.89rem;
+}
+.frame-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0.71rem;
+  width: 3.06rem;
+  height: 2.38rem;
+  overflow: hidden;
+}
+.heart-burn1 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 1.22rem;
+}
+.frame-parent15,
+.frame59,
+.heart-burn1 {
+  position: absolute;
+  width: 4.48rem;
+}
+.frame59 {
+  top: 2.78rem;
+  left: 0;
+  height: 1.22rem;
+  overflow: hidden;
+}
+.frame-parent15 {
+  top: 0.06rem;
+  left: 9.83rem;
+  height: 4rem;
+}
+.group-icon2 {
+  position: absolute;
+  height: 61.38%;
+  width: 83.34%;
+  top: 0;
+  right: 7.26%;
+  bottom: 38.62%;
+  left: 9.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cough1,
+.group-container {
+  position: absolute;
+  width: 2.85rem;
+}
+.cough1 {
+  top: 2.65rem;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 1.22rem;
+}
+.group-container {
+  top: 0;
+  left: 4.89rem;
+  height: 3.87rem;
+}
+.frame-parent14,
+.vector-parent1 {
+  position: absolute;
+  top: 5.23rem;
+  left: 0.26rem;
+  width: 14.31rem;
+  height: 4.06rem;
+}
+.vector-parent1 {
+  top: 1.1rem;
+  left: 1.12rem;
+  width: 25.36rem;
+  height: 23.12rem;
+  text-align: left;
+  font-size: 0.77rem;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

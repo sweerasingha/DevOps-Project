@@ -1,0 +1,22 @@
+.inputCer {
+    background-color: rgb(205, 206, 205);
+    width: 700px;
+    height: 180px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}
+
+.inputCer::placeholder {
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top:10px;
+    left: 10px;
+    transform: translateY(0);
+}

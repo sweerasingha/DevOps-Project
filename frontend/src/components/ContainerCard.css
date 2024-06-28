@@ -1,0 +1,68 @@
+.frame-child38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3.76rem;
+  height: 3.76rem;
+}
+.am6,
+.hi-hi5,
+.weekly-visit {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.hi-hi5 {
+  top: 0.35rem;
+  left: 4.59rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  width: 8.83rem;
+  height: 1.9rem;
+}
+.am6,
+.weekly-visit {
+  height: 1.22rem;
+}
+.weekly-visit {
+  top: 2.44rem;
+  left: 4.59rem;
+  color: var(--color-deeppink-100);
+  width: 4.96rem;
+}
+.am6 {
+  top: 0.28rem;
+  left: 0.7rem;
+  width: 3.47rem;
+}
+.am-wrapper4 {
+  position: absolute;
+  top: 0.56rem;
+  left: 18.79rem;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-deeppink-200);
+  width: 4.87rem;
+  height: 1.81rem;
+  color: var(--color-deeppink-100);
+}
+.sm {
+  position: absolute;
+  top: 0.97rem;
+  left: 1.04rem;
+  font-size: 1.02rem;
+  display: flex;
+  align-items: center;
+  width: 1.63rem;
+  height: 1.7rem;
+}
+.group-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.66rem;
+  height: 3.76rem;
+  text-align: left;
+  font-size: 0.77rem;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

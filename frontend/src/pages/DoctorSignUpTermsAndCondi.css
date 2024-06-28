@@ -1,0 +1,104 @@
+.abstraction-icon {
+  position: absolute;
+  height: 74.99%;
+  width: 90.91%;
+  top: 25.27%;
+  right: 9.09%;
+  bottom: -0.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hourglass-with-glasmorphism-ef {
+  position: absolute;
+  top: 8.6rem;
+  left: 2.29rem;
+  width: 9.21rem;
+  height: 15.08rem;
+  object-fit: cover;
+}
+.pict-web {
+  position: absolute;
+  top: 18.97rem;
+  left: 14.17rem;
+  width: 26.25rem;
+  height: 40.08rem;
+  display: none;
+}
+.frame-icon3 {
+  position: relative;
+  width: 20.88rem;
+  height: 0.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent10,
+.frame24 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-parent10 {
+  border-radius: var(--br-21xl) 0 0 var(--br-21xl);
+  background-color: var(--color-white);
+  width: 93rem;
+  height: 61.38rem;
+  flex-shrink: 0;
+  align-items: center;
+  padding: var(--padding-5xl) 33.31rem;
+  box-sizing: border-box;
+  gap: 50.5rem;
+}
+.frame24 {
+  position: absolute;
+  top: 0;
+  left: -3rem;
+  width: 96rem;
+  align-items: flex-end;
+}
+.terms-and-conditions {
+  position: relative;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+.by-proceeding-you,
+.frame25 {
+  position: absolute;
+  left: 10.13rem;
+  width: 69.75rem;
+}
+.frame25 {
+  top: 17.44rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.by-proceeding-you {
+  top: 22.5rem;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+}
+.doctor-sign-up-terms-and-condi {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  box-shadow: 18px 17px 35px rgba(0, 0, 0, 0.25);
+  border: 30px solid var(--color-mediumspringgreen);
+  box-sizing: border-box;
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}

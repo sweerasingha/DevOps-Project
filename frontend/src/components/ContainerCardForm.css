@@ -1,0 +1,77 @@
+.frame-child34,
+.frame-child35 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child34 {
+  top: 0;
+  left: 0;
+  border: 0.8px solid var(--color-darkcyan-200);
+  box-sizing: border-box;
+  width: 3.76rem;
+  height: 3.76rem;
+}
+.frame-child35 {
+  top: 0.28rem;
+  left: 0.28rem;
+  background-color: var(--color-darkcyan-300);
+  width: 3.2rem;
+  height: 3.2rem;
+}
+.ss1 {
+  position: absolute;
+  top: 0.97rem;
+  left: 0.97rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.7rem;
+}
+.ellipse-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3.76rem;
+  height: 3.76rem;
+  text-align: center;
+}
+.male-23,
+.sachitha-sankha1 {
+  position: absolute;
+  left: 4.59rem;
+  display: flex;
+  align-items: center;
+}
+.sachitha-sankha1 {
+  top: 0.32rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  width: 11.19rem;
+  height: 1.94rem;
+}
+.male-23 {
+  top: 2.44rem;
+  font-size: 0.77rem;
+  color: var(--color-gray-700);
+  width: 10.46rem;
+  height: 1.22rem;
+}
+.frame-child36 {
+  position: absolute;
+  top: 0.7rem;
+  left: 22.62rem;
+  width: 1.67rem;
+  height: 1.67rem;
+}
+.frame-parent12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24.29rem;
+  height: 3.76rem;
+  text-align: left;
+  font-size: 1.02rem;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

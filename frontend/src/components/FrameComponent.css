@@ -1,0 +1,39 @@
+.janet {
+  z-index: 0;
+}
+.first-name,
+.janet {
+  position: relative;
+  line-height: 120%;
+}
+.first-name-wrapper,
+.janet-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.first-name-wrapper {
+  margin: 0 !important;
+  position: absolute;
+  top: -11px;
+  left: 21px;
+  background-color: var(--color-white);
+  padding: var(--padding-11xs);
+  z-index: 1;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.janet-parent {
+  border-radius: var(--br-4xs);
+  border: 1.5px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 306px;
+  padding: var(--padding-xl);
+  position: relative;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: 13px;
+  color: var(--color-silver);
+  font-family: var(--font-dm-sans);
+}

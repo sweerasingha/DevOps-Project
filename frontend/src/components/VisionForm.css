@@ -1,0 +1,78 @@
+.sperenza-logo-icon4 {
+  position: relative;
+  width: 8.2rem;
+  height: 8.13rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sperenza2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 140%;
+  font-weight: 400;
+  font-family: inherit;
+  background: linear-gradient(180deg, #464a4e, #003256);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 11.81rem;
+  height: 11.81rem;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px gold;
+}
+.frame43,
+.frame44 {
+  width: 19.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame44 {
+  height: 13.94rem;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-0) 0.06rem var(--padding-0) 9.21rem;
+  margin-left: -8.19rem;
+}
+.frame43 {
+  height: 10.75rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) 11.74rem var(--padding-0) var(--padding-0);
+  font-family: var(--font-koulen);
+}
+.empowering-progress-through2,
+.sperenza-all-rights2 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.empowering-progress-through2 {
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.07em;
+  width: 19.88rem;
+  height: 5.44rem;
+  flex-shrink: 0;
+}
+.sperenza-all-rights2 {
+  font-size: var(--font-size-base);
+  width: 19.94rem;
+}
+.vision {
+  width: 22rem;
+  height: 18.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}

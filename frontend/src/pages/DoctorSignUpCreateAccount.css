@@ -1,0 +1,220 @@
+.create-account {
+  position: undefined;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  display: inline-block;
+  height: 2.88rem;
+  margin-left: 9.25rem;
+}
+.frame-button-google {
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 2.81rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.36;
+}
+.logo-google-1 {
+  position: relative;
+  width: 1.69rem;
+  height: 1.69rem;
+  object-fit: cover;
+  margin-left: -2.62rem;
+}
+.google1 {
+  position: absolute;
+  top: 0.13rem;
+  left: 0;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  width: 2.81rem;
+  height: 2.81rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-button-apple {
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 2.81rem;
+  overflow: hidden;
+  opacity: 0.36;
+}
+.vector-icon2 {
+  position: relative;
+  width: 1.69rem;
+  height: 1.68rem;
+  margin-top: -2.25rem;
+}
+.facebook {
+  position: absolute;
+  top: 0.13rem;
+  left: 19.5rem;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  width: 2.81rem;
+  height: 2.93rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-button-fb {
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-600);
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  width: 2.81rem;
+  overflow: hidden;
+  opacity: 0.36;
+}
+.apple-logo-icon {
+  position: relative;
+  width: 1.69rem;
+  height: 1.69rem;
+  object-fit: cover;
+  margin-top: -2.31rem;
+}
+.apple {
+  position: absolute;
+  top: 0;
+  left: 9.56rem;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  width: 2.81rem;
+  height: 2.94rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.social-media-icons {
+  position: undefined;
+  width: 22.31rem;
+  height: 3.06rem;
+  margin-left: 1.31rem;
+}
+.or-create-account {
+  position: undefined;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  display: inline-block;
+  height: 2.19rem;
+  margin-left: 0.06rem;
+}
+.full-name {
+  border: 0;
+  background-color: transparent;
+}
+.frame27,
+.frame28 {
+  width: 35rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame28 {
+  height: 24.31rem;
+  gap: 2.56rem;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.frame27 {
+  height: 31.13rem;
+  gap: 3.94rem;
+}
+.log-in {
+  color: var(--color-steelblue-100);
+}
+.already-have-an-container {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.frame29,
+.frame30 {
+  width: 35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame30 {
+  cursor: pointer;
+  text-decoration: none;
+  overflow: hidden;
+  align-items: flex-start;
+  color: inherit;
+}
+.frame29 {
+  height: 8.94rem;
+  align-items: center;
+  gap: 4.25rem;
+  font-size: var(--font-size-5xl);
+  color: rgba(0, 50, 86, 0.78);
+}
+.frame-icon4,
+.frame26,
+.frame29 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame26 {
+  width: 47.5rem;
+  height: 43.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+  position: undefined;
+  margin-top: 3.69rem;
+}
+.frame-icon4 {
+  position: relative;
+  width: 0.75rem;
+  height: 58.38rem;
+}
+.doctor-sign-up-create-account,
+.frame-parent11 {
+  background-color: var(--color-white);
+  height: 61.38rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent11 {
+  border-radius: var(--br-21xl) 0 0 var(--br-21xl);
+  width: 58.19rem;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  padding: var(--padding-5xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: 9.63rem;
+  margin-left: -10.19rem;
+}
+.doctor-sign-up-create-account {
+  position: relative;
+  border-radius: var(--br-20xl);
+  box-shadow: 18px 17px 35px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-jost);
+}
+@media screen and (max-width: 960px) {
+  .doctor-sign-up-create-account {
+    flex-direction: column;
+    gap: -10.19rem;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}

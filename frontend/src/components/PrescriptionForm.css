@@ -1,0 +1,105 @@
+.last-checked {
+  position: absolute;
+  top: 0.72rem;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 5.72rem;
+  height: 1.22rem;
+}
+.dr-w {
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+}
+.on-13-may {
+  color: var(--color-gray-700);
+}
+.j983kt0 {
+  text-decoration: underline;
+  color: var(--color-royalblue);
+}
+.dr-w-on-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.dr-w-on-container {
+  position: absolute;
+  top: 0;
+  left: 6.4rem;
+  display: flex;
+  align-items: center;
+  width: 17.19rem;
+  height: 2.45rem;
+}
+.last-checked-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.59rem;
+  height: 2.45rem;
+  color: var(--color-black);
+}
+.high-level-addicted {
+  position: absolute;
+  top: 0;
+  left: 6.59rem;
+  display: inline-block;
+  width: 18.77rem;
+  height: 2.45rem;
+}
+.observation {
+  position: absolute;
+  top: 0.05rem;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 5.16rem;
+  height: 1.22rem;
+}
+.high-level-addicted-parent {
+  position: absolute;
+  top: 4.56rem;
+  left: 0;
+  width: 25.36rem;
+  height: 2.45rem;
+}
+.calm-down {
+  position: absolute;
+  top: 0.24rem;
+  left: 6.4rem;
+  display: inline-block;
+  width: 17.88rem;
+  height: 3.67rem;
+}
+.prescription {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 5.03rem;
+  height: 1.22rem;
+}
+.calm-down-parent,
+.frame-parent13 {
+  position: absolute;
+  top: 8.51rem;
+  left: 0;
+  width: 24.28rem;
+  height: 3.91rem;
+}
+.frame-parent13 {
+  top: 10.7rem;
+  width: 25.36rem;
+  height: 12.42rem;
+  text-align: left;
+  font-size: 0.77rem;
+  color: var(--color-gray-700);
+  font-family: var(--font-poppins);
+}

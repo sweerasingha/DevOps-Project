@@ -1,0 +1,137 @@
+.frame-icon5 {
+  position: relative;
+  width: 1.7rem;
+  height: 10.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.contact3 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 8.71rem;
+}
+.monday-to-friday {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.sachiprojectsgmailcom-monday2 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 13.63rem;
+}
+.col4 {
+  width: 17.31rem;
+  height: 14.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  position: undefined;
+  margin-bottom: 3.25rem;
+}
+.contact2,
+.frame46 {
+  overflow: hidden;
+  display: flex;
+}
+.contact2 {
+  width: 16.22rem;
+  height: 17.31rem;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.frame46 {
+  width: 9.53rem;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-0) 0;
+  box-sizing: border-box;
+}
+.home6 {
+  margin-bottom: false;
+}
+.home-doctor-patient-about-cont2 {
+  margin: 0;
+  padding-left: var(--padding-5xl);
+}
+.home-doctor-patient-container2 {
+  position: undefined;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 8.71rem;
+  height: 9.31rem;
+  margin-right: 0.81rem;
+}
+.col5 {
+  width: 9.53rem;
+  height: 12.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-7xl);
+}
+.quicklinks,
+.social-icon2 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.quicklinks {
+  width: 9.53rem;
+  height: 17.31rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.social-icon2 {
+  position: relative;
+  width: 9.15rem;
+  height: 14.06rem;
+}
+.footer2,
+.frame45 {
+  display: flex;
+  flex-direction: row;
+}
+.frame45 {
+  width: 46.64rem;
+  height: 17.31rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  font-size: var(--font-size-lg);
+}
+.footer2 {
+  background-color: var(--color-darkslategray-100);
+  width: 100vw;
+  height: 23.44rem;
+  justify-content: center;
+  margin-bottom: 0; /* Change this line */
+  /* Remove the following properties */
+  /* position: fixed; */
+  /* bottom: 0; */
+  left: 0;
+  padding: var(--padding-9xl) 5.3rem;
+  box-sizing: border-box;
+  gap: var(--gap-169xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+
