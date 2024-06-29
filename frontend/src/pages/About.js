@@ -30,7 +30,7 @@ const About = () => {
         <Navbar/>
         <div className="a">
           <h1>
-            This is about
+            This is about page
           </h1>
         </div>
         <SperenzaFooter/>
