@@ -20,7 +20,7 @@ const MainHeading = () => {
         <div className="frame34">
           <div className="frame35">
             <h1 className="your-health-our">
-              Your Health, Our Priority! Now Just One Click Away
+              Your Healths, Our Priority! Now Just One Click Away
             </h1>
             <Button
                   className="vector-icon3"
